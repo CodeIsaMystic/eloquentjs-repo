@@ -38,6 +38,14 @@
   - [Modules](#modules)
   - [Asynchronous Programming](#asynchronous-programming)
   - [Project: a Programming Language](#project-a-programming-language)
+- [PART II: Browser](#part2-browser)
+  - [Javascript and the Browser](#javascript-and-the-browser)
+  - [The Document Object Model](#the-document-object-model)
+  - [Handling Events](#handling-events)
+  - [Project: a Platform Game](#project-a-platform-game)
+  - [Drawing on Canvas](#drawing-on-canvas)
+  - [HTTP and Forms](#http-and-forms)
+  - [Project: a Pixel Art Editor](#project-a-pixel-art-editor)
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
