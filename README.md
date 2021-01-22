@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Eloquent Javascript Repo</h1>
 
-<a href="https://www.emojione.com/emoji/1F983">
+<a href="https://eloquentjavascript.net/">
   <img
     alt="book cover"
     src="https://eloquentjavascript.net/img/cover.jpg"
@@ -22,8 +22,6 @@
 
 ## Summary
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [INTRODUCTION](#introduction)
 - [PART I: LANGUAGE](#part1-language)
   - [Values, Types and Operators](#values-types-and-operators)
@@ -47,5 +45,8 @@
   - [HTTP and Forms](#http-and-forms)
   - [Project: a Pixel Art Editor](#project-a-pixel-art-editor)
 
+<hr />
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+## Introduction
+
+"This is a Book about instructing computers. Computers are about as common as screwdrivers today, but they are quite a bit more complex, and making them do what you want to do isn't always easy."
