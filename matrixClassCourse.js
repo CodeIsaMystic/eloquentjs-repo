@@ -83,4 +83,4 @@ console.log(Matrix);
 
 console.log(SymmetricMatrix);
 
-console.log(matrix);
+console.log(Matrix);
