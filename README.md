@@ -5,8 +5,8 @@
   <img
     height="80"
     width="80"
-    alt="goat"
-    src="https://www.emojione.com/emoji/1F983"
+    alt="book cover"
+    src="https://eloquentjavascript.net/img/cover.jpg"
   />
 </a>
 
